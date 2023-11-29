@@ -45,5 +45,5 @@ test = ["coverage", "mock", "pyfakefs"]
 
 
 [build-system]
-requires = ["setuptools >= 40.6.0 <= 69.0.0"]
+requires = ["setuptools >= 40.6.0, < 69.0.0"]
 build-backend = "setuptools.build_meta"
