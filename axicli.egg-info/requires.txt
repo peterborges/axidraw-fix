@@ -1,0 +1,11 @@
+
+[dev]
+axidrawinternal>=3.0.0
+coverage
+mock
+pyfakefs
+
+[test]
+coverage
+mock
+pyfakefs
